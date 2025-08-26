@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import ScoreCard from "./components/scoreCard";
-import CardGrid from "./components/cardGrid";
+import ScoreCard from "./components/ScoreCard";
+import CardGrid from "./components/CardGrid";
 import shuffle from "./util/shuffle";
 
 function App() {
